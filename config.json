@@ -1,0 +1,16 @@
+{
+  "API_ID": 32924078,
+  "API_HASH": "5fb624acedb64de522eff541a4b6d7f5",
+  "SESSION_NAME": "userbot_session",
+  "RELAY_ENABLED": true,
+  "SOURCE_GROUPS": [],
+  "DRIVER_GROUP": 0,
+  "BOT_TOKEN": "8788935544:AAGSzhBJWdDFjOh7WeZtRFsDnBns9fQVmh0",
+  "ADMIN_IDS": [
+    8638810719
+  ],
+  "ADMIN_BOT_SESSION": "rozimuhammadakramjonovBot_bot",
+  "AD_BLOCK_USER_IDS": [],
+  "AD_BLOCK_REFS": [],
+  "BLOCKED_CHAT_IDS": []
+}
